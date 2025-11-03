@@ -24,7 +24,7 @@ Token ini memiliki supply awal **100,000,000 TTL**, mintable oleh owner, dan bur
 
 ## 🚀 Deployment Instructions
 
-1. Buka [Remix Ethereum IDE](https://remix.ethereum.org)  
+1. Buka [github kongali1720](https://github.com/kongali1720/tutul-token/edit/main/README.md)  
 2. Buat file baru `TUTULToken.sol`  
 3. Paste **seluruh kontrak TUTULToken** (termasuk SPDX panjang ala KAC)  
 4. Pilih **Compiler 0.8.20**, enable **Optimizer (Runs: 200)**  
