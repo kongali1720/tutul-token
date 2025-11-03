@@ -1,0 +1,33 @@
+{
+  "language": "Solidity",
+  "sources": {
+    "TUTULToken.sol": {
+      "content": "/* paste seluruh TUTULToken.sol code di sini, termasuk SPDX panjang ala KAC */"
+    }
+  },
+  "settings": {
+    "optimizer": {
+      "enabled": true,
+      "runs": 200
+    },
+    "evmVersion": "london",
+    "metadata": {
+      "useLiteralContent": true
+    },
+    "outputSelection": {
+      "*": {
+        "*": [
+          "abi",
+          "evm.bytecode",
+          "evm.bytecode.sourceMap",
+          "evm.deployedBytecode",
+          "evm.deployedBytecode.sourceMap",
+          "devdoc",
+          "userdoc"
+        ]
+      }
+    },
+    "remappings": []
+  },
+  "constructorArguments": ""
+}
